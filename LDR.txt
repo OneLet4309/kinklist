@@ -1,6 +1,6 @@
 #Bodies
 (General)
-* Skinnytest
+* Skinny
 ? Expresses an interest in characters that are waifish, thin, or slender.
 * Chubby
 ? Expresses an interest in characters that are well-rounded, full in form, and pudgy.
