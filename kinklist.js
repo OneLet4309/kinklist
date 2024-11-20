@@ -34,13 +34,7 @@ var inputKinks = {}
 var colors = {}
 var level = {};
 
-
-
-$(function(){
-
-    var imgurClientId = '9db53e5936cd02f';
-
-    // Force loading the default item
+function LoadList() {
     fileToRead = $("#listType").val() + '.txt';
     $.get(fileToRead, function(data) {
         $('#Kinks').text(data);
@@ -49,6 +43,15 @@ $(function(){
         kinks = inputKinks.parseKinksText(kinksText);
         inputKinks.fillInputList();
     }, 'text');
+}
+
+
+$(function(){
+
+    var imgurClientId = '9db53e5936cd02f';
+
+    // Force loading the default item
+    LoadList();
 
     $("#listType").change(function() {
         fileToRead = $("#listType").val() + '.txt';
