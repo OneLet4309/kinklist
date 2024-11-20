@@ -76,7 +76,7 @@
 * Glacial replies (8-24 hours)
 * Occasional replies (24+ hours)
 
-#Names and Titles
+#Titles and Names
 (Self, Partner)
 * Dom
 * Sir
