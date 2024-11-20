@@ -48,10 +48,11 @@
 (General)
 * Email
 * Text
+* Photos
 * Voice recordings
-* Voice call
-* Video recording
-* Video call
+* Voice calls
+* Video recordings
+* Video calls
 
 #Required Communication
 (General)
