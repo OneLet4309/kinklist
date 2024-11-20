@@ -63,7 +63,7 @@
 * Every few days
 * Weekly or less frequent
 * Excused with notice
-* Required communication may be paused with notice if the person is going to be unavailable
+? Required communication may be paused with notice if the person is going to be unavailable
 
 #Communication Pace
 (Self, Partner)
