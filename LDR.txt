@@ -54,7 +54,7 @@
 * Video recordings
 * Video calls
 
-#Required Communication
+#Expected Communication
 (Self, Partner)
 * Good morning
 * Good night
@@ -64,6 +64,8 @@
 * Weekly or less frequent
 * Excused with notice
 ? Required communication may be paused with notice if the person is going to be unavailable
+* 72-hour termination
+? Relationship is assumed terminated if no message is received for 72 hours
 
 #Communication Pace
 (Self, Partner)
