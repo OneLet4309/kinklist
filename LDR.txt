@@ -81,9 +81,11 @@
 * Dom
 * Sir
 * Daddy
-* Ms/Miss/Mrs
 * Master
+* Ms/Miss/Mrs
+* Madam
 * Mistress
+* Mommy
 * Sub
 * Slave
 * Good Girl
