@@ -62,17 +62,17 @@
 * At least once per day
 * Every few days
 * Weekly or less frequent
-* Waived with notice
-? Required communication may be waived with prior notice
+* Excused with notice
+* Required communication may be paused with notice if the person is going to be unavailable
 
 #Communication Pace
 (Self, Partner)
-* Immediate Replies (0~10 mins)
-* Fast Replies (10~30 mins)
-* Normal Replies (30min ~ 2hours)
-* Slow Replies (2~8 hours)
-* Glacial Replies (8-24 hours)
-* Occasional Replies (24+ hours)
+* Immediate replies (0~10 mins)
+* Fast replies (10~30 mins)
+* Normal replies (30min ~ 2hours)
+* Slow replies (2~8 hours)
+* Glacial replies (8-24 hours)
+* Occasional replies (24+ hours)
 
 #Names and Titles
 (Self, Partner)
