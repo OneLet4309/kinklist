@@ -40,6 +40,16 @@ $(function(){
 
     var imgurClientId = '9db53e5936cd02f';
 
+    // Force loading the default item
+    fileToRead = $("#listType").val() + '.txt';
+    $.get(fileToRead, function(data) {
+        $('#Kinks').text(data);
+        var selection = inputKinks.saveSelection();
+        var kinksText = $('#Kinks').val();
+        kinks = inputKinks.parseKinksText(kinksText);
+        inputKinks.fillInputList();
+    }, 'text');
+
     $("#listType").change(function() {
         fileToRead = $("#listType").val() + '.txt';
         $.get(fileToRead, function(data) {
