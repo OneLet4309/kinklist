@@ -45,7 +45,6 @@ function LoadList() {
     }, 'text');
 }
 
-
 $(function(){
 
     var imgurClientId = '9db53e5936cd02f';
