@@ -1,5 +1,5 @@
 #Body Preferences
-(General)
+(Self, Partner)
 * Slim
 ? Expresses an interest in bodies that are slim or skinny
 * Muscular
@@ -45,7 +45,7 @@
 ? Wearing clothes of a different gender.
 
 #Communication Medium
-(General)
+(Self, Partner)
 * Email
 * Text
 * Photos
@@ -283,7 +283,7 @@
 ? Engaging in sexual acts with an unconscious/asleep partner
 
 #Taboo Interests
-(General)
+(Self, Partner)
 * Incest
 ? Two people are related
 * Age Gap
